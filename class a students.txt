@@ -1,0 +1,10 @@
+roy 18 male maths class a
+samantha 17 female english class a
+zack 18 male physics class a
+zahra 18 female physics class a
+ali 17 male chemistry class a
+zainab 17 female chemistry class a
+jacob 17 male english class a
+jonathan 18 male english class a
+
+zarlasth 18 female likes biologyand hoorain 18 female likes maths

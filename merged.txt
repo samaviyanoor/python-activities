@@ -1,0 +1,4 @@
+welcome to file operations
+
+new file
+today is tuesday and it is raining
